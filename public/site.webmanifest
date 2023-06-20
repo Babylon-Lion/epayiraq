@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "ePayIraq",
+  "short_name": "ePayIraq",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#F53838",
+  "description": "ePayIraq Best Digital Payment Platform in Iraq",
+  "icons": [
+    {
+      "src": "/favicon/favicon.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "1"
+    }
+  ]
+}
